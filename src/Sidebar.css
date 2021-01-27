@@ -7,9 +7,20 @@
     min-width: 180px;
     background-color: #040404;
 }
+.sidebar > hr{
+  border: 1px solid #282822;
+  width: 90%;
+  margin: 10px auto;
+}
 .sidebar_logo {
   margin-right: auto;
   object-fit: contain;
   height: 70px;
   padding: 10px;
+}
+.sidebar_title{
+  color:gray;
+    margin-left: 10px;
+    padding: 5px;
+    font-size: 12px;
 }
