@@ -16,8 +16,8 @@ function Footer() {
       <div className="footer_left">
         <img className="footer_albumlogo" src="/logo192.png" alt="Song thumbnail" />
         <div className="footer_songinfo">
-          <h4>Kunjimani poove</h4>
-          <p>Kunjipaadunnu...</p>
+          <h4>Kalli kunji...</h4>
+          <p>Singer - Kunji</p>
         </div>
       </div>
       <div className="footer_center">
