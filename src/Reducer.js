@@ -21,17 +21,17 @@ const Reducer = (state, action) => {
     case "SET_TOKEN":
       return {
         ...state,
-        token: action.token
+        token: action.token,
       };
     case "SET_PLAYLIST":
       return {
         ...state,
-        playlist: action.playlist
+        playlist: action.playlist,
       };
     case "SET_DISCOVER_WEEKLY":
       return {
         ...state,
-        discover_weekly: action.discover_weekly
+        discover_weekly: action.discover_weekly,
       };
 
     default:
